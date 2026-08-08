@@ -1,0 +1,6 @@
+{
+  "name": "Ghorer Bazar - Organic Food Store",
+  "description": "An authentic Bangladeshi organic food e-commerce application featuring direct express checkout, dynamic delivery charges, weight variants, COD, and AI health advisory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
